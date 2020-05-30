@@ -1,2 +1,12 @@
 ﻿  main.c
+D:\User\Develop\GitHub\MyLib_C\VisualStudioProject\MyLib_C\main.c(21,16): warning C4566: 由通用字元名稱 '\u8BF7' 表示的字元，無法在目前的字碼頁中表示 (950)
+D:\User\Develop\GitHub\MyLib_C\VisualStudioProject\MyLib_C\main.c(21,16): warning C4566: 由通用字元名稱 '\u8F93' 表示的字元，無法在目前的字碼頁中表示 (950)
+D:\User\Develop\GitHub\MyLib_C\VisualStudioProject\MyLib_C\main.c(40,16): warning C4477: 'printf' : 格式字串 '%s' 需要 'char *' 類型的引數，但 variadic 引數 1 的類型為 'int'
+D:\User\Develop\GitHub\MyLib_C\VisualStudioProject\MyLib_C\main.c(43,16): warning C4477: 'printf' : 格式字串 '%s' 需要 'char *' 類型的引數，但 variadic 引數 1 的類型為 'int'
+D:\User\Develop\GitHub\MyLib_C\VisualStudioProject\MyLib_C\main.c(46,16): warning C4477: 'printf' : 格式字串 '%s' 需要 'char *' 類型的引數，但 variadic 引數 1 的類型為 'int'
+D:\User\Develop\GitHub\MyLib_C\VisualStudioProject\MyLib_C\main.c(49,16): warning C4477: 'printf' : 格式字串 '%s' 需要 'char *' 類型的引數，但 variadic 引數 1 的類型為 'int'
+D:\User\Develop\GitHub\MyLib_C\VisualStudioProject\MyLib_C\main.c(52,16): warning C4477: 'printf' : 格式字串 '%s' 需要 'char *' 類型的引數，但 variadic 引數 1 的類型為 'int'
+D:\User\Develop\GitHub\MyLib_C\VisualStudioProject\MyLib_C\main.c(36,1): warning C4047: '正在初始化': 'int' 與 'char *' 間接取值的層級不同
+D:\User\Develop\GitHub\MyLib_C\VisualStudioProject\MyLib_C\main.c(37,1): warning C4047: '正在初始化': 'int' 與 'char *' 間接取值的層級不同
+D:\User\Develop\GitHub\MyLib_C\VisualStudioProject\MyLib_C\main.c(38,1): warning C4047: '正在初始化': 'int' 與 'char *' 間接取值的層級不同
   MyLib_C.vcxproj -> D:\User\Develop\GitHub\MyLib_C\VisualStudioProject\Debug\MyLib_C.exe
